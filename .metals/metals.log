@@ -1,0 +1,1258 @@
+2026.11.03 12:47:37 INFO  Started: Metals version 1.6.9 in folders '/home/tedlu/workspace/workspace/w08_life' for client Visual Studio Code 1.143.1.[0m
+2026.11.03 12:47:37 INFO  Memory monitor started[0m
+2026.11.03 12:47:37 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.[0m
+2026.11.03 12:47:38 INFO  no build target found for /home/tedlu/workspace/workspace/w08_life/Matrix.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.03 12:47:39 INFO  no build target found for /home/tedlu/workspace/workspace/w08_life/Matrix.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.03 12:47:40 INFO  no build target found for /home/tedlu/workspace/workspace/w08_life/Matrix.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.03 12:47:40 INFO  Wrote configuration file for ide in: /home/tedlu/workspace/workspace/w08_life/.bsp/scala-cli.json[0m
+2026.11.03 12:47:40 INFO  time: ran 'scala-cli bspConfig' in 0.16s[0m
+2026.11.03 12:47:40 INFO  Attempting to connect to the build server...[0m
+2026.11.03 12:47:40 INFO  Running BSP server List(/home/tedlu/.local/share/coursier/bin/.scala-cli.aux, bsp, --json-options, /home/tedlu/workspace/workspace/w08_life/.scala-build/ide-options-v2.json, --json-launcher-options, /home/tedlu/workspace/workspace/w08_life/.scala-build/ide-launcher-options.json, --envs-file, /home/tedlu/workspace/workspace/w08_life/.scala-build/ide-envs.json, /home/tedlu/workspace/workspace/w08_life)[0m
+2026.11.03 12:47:39 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at /home/tedlu/workspace/workspace/w08_life/.metals/bsp.trace.json or /home/tedlu/.cache/metals/bsp.trace.json[0m
+2026.11.03 12:47:40 INFO  no build target found for /home/tedlu/workspace/workspace/w08_life/Matrix.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.03 12:47:40 INFO  BSP server: Starting compilation server[0m
+2026.11.03 12:47:43 INFO  BSP server: Checking https://repo1.maven.org/maven2/org/scala-lang/scala3-library_3/maven-metadata.xml[0m
+2026.11.03 12:47:43 INFO  BSP server: Failed to check https://repo1.maven.org/maven2/org/scala-lang/scala3-library_3/maven-metadata.xml[0m
+2026.11.03 12:47:43 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala3-library_3/maven-metadata.xml[0m
+2026.11.03 12:47:43 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala3-library_3/maven-metadata.xml[0m
+2026.11.03 12:47:43 INFO  BSP server: Checking https://repo1.maven.org/maven2/se/lth/cs/introprog_3/maven-metadata.xml[0m
+2026.11.03 12:47:43 INFO  BSP server: Checked https://repo1.maven.org/maven2/se/lth/cs/introprog_3/maven-metadata.xml[0m
+2026.11.03 12:47:43 INFO  BSP server: [hint] ./project.scala:3:15[0m
+2026.11.03 12:47:43 INFO  BSP server: [hint] "introprog is outdated, update to 1.5.0"[0m
+2026.11.03 12:47:43 INFO  BSP server: [hint]      introprog 1.4.0 -> se.lth.cs::introprog::1.5.0[0m
+2026.11.03 12:47:43 INFO  BSP server: [hint] //> using dep se.lth.cs::introprog::1.4.0[0m
+2026.11.03 12:47:43 INFO  BSP server: [hint]               ^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+2026.11.03 12:47:43 INFO  time: Connected to build server in 3.1s[0m
+2026.11.03 12:47:43 INFO  Connected to Build server: scala-cli v1.16.0[0m
+2026.11.03 12:47:43 INFO  BSP server: [hint] ./project.scala:3:15[0m
+2026.11.03 12:47:43 INFO  BSP server: [hint] "introprog is outdated, update to 1.5.0"[0m
+2026.11.03 12:47:43 INFO  BSP server: [hint]      introprog 1.4.0 -> se.lth.cs::introprog::1.5.0[0m
+2026.11.03 12:47:43 INFO  BSP server: [hint] //> using dep se.lth.cs::introprog::1.4.0[0m
+2026.11.03 12:47:43 INFO  BSP server: [hint]               ^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+2026.11.03 12:47:43 INFO  time: Imported build in 0.21s[0m
+2026.11.03 12:47:44 INFO  compiling w08_life_e7141a6773 (5 scala sources)[0m
+2026.11.03 12:47:46 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.[0m
+2026.11.03 12:47:48 INFO  time: indexed workspace in 5.05s[0m
+2026.11.03 12:47:51 INFO  time: compiled w08_life_e7141a6773 in 7.21s[0m
+2026.11.03 12:47:51 INFO  BSP server: [hint] ./project.scala:3:15[0m
+2026.11.03 12:47:51 INFO  BSP server: [hint] "introprog is outdated, update to 1.5.0"[0m
+2026.11.03 12:47:51 INFO  BSP server: [hint]      introprog 1.4.0 -> se.lth.cs::introprog::1.5.0[0m
+2026.11.03 12:47:51 INFO  BSP server: [hint] //> using dep se.lth.cs::introprog::1.4.0[0m
+2026.11.03 12:47:51 INFO  BSP server: [hint]               ^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+2026.11.03 12:48:05 WARN  Could not find semantic tokens for: file:///home/tedlu/workspace/workspace/w08_life/project.scala[0m
+2026.11.03 12:48:05 WARN  Could not find semantic tokens for: file:///home/tedlu/workspace/workspace/w08_life/project.scala[0m
+2026.11.03 12:48:11 WARN  Could not find semantic tokens for: file:///home/tedlu/workspace/workspace/w08_life/project.scala[0m
+2026.11.03 12:48:11 INFO  Cancelling compilation on scala-cli server[0m
+2026.11.03 12:48:12 INFO  compiling w08_life_e7141a6773 (5 scala sources)[0m
+2026.11.03 12:48:12 WARN  Could not find semantic tokens for: file:///home/tedlu/workspace/workspace/w08_life/project.scala[0m
+2026.11.03 12:48:13 INFO  time: compiled w08_life_e7141a6773 in 1.49s[0m
+2026.11.03 12:48:13 INFO  time: indexed workspace in 1.81s[0m
+2026.11.03 12:48:56 WARN  Could not find semantic tokens for: file:///home/tedlu/workspace/workspace/w08_life/project.scala[0m
+2026.11.03 14:08:20 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:08:23 INFO  time: compiled w08_life_e7141a6773 in 2.58s[0m
+Nov 03, 2026 2:08:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 173
+2026.11.03 14:08:29 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:08:29 INFO  time: compiled w08_life_e7141a6773 in 0.35s[0m
+2026.11.03 14:08:33 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:08:33 INFO  time: compiled w08_life_e7141a6773 in 0.16s[0m
+2026.11.03 14:08:51 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:08:51 INFO  time: compiled w08_life_e7141a6773 in 0.53s[0m
+2026.11.03 14:09:00 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:09:00 INFO  time: compiled w08_life_e7141a6773 in 0.34s[0m
+2026.11.03 14:09:29 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:09:29 INFO  time: compiled w08_life_e7141a6773 in 0.34s[0m
+2026.11.03 14:09:49 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:09:49 INFO  time: compiled w08_life_e7141a6773 in 0.34s[0m
+2026.11.03 14:21:01 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:21:01 INFO  time: compiled w08_life_e7141a6773 in 0.77s[0m
+2026.11.03 14:21:06 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:21:06 INFO  time: compiled w08_life_e7141a6773 in 0.43s[0m
+2026.11.03 14:21:22 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:21:22 INFO  time: compiled w08_life_e7141a6773 in 0.3s[0m
+2026.11.03 14:21:51 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:21:51 INFO  time: compiled w08_life_e7141a6773 in 0.25s[0m
+2026.11.03 14:22:00 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:22:00 INFO  time: compiled w08_life_e7141a6773 in 0.26s[0m
+2026.11.03 14:22:25 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:22:25 INFO  time: compiled w08_life_e7141a6773 in 0.25s[0m
+2026.11.03 14:22:27 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:22:27 INFO  time: compiled w08_life_e7141a6773 in 0.23s[0m
+2026.11.03 14:22:35 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:22:35 INFO  time: compiled w08_life_e7141a6773 in 0.2s[0m
+2026.11.03 14:22:43 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:22:43 INFO  time: compiled w08_life_e7141a6773 in 0.17s[0m
+2026.11.03 14:23:04 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:23:04 INFO  time: compiled w08_life_e7141a6773 in 0.76s[0m
+Nov 03, 2026 2:24:12 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 03, 2026 2:24:13 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.11.03 14:31:52 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:31:54 INFO  time: compiled w08_life_e7141a6773 in 1.77s[0m
+2026.11.03 14:35:16 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:35:18 INFO  time: compiled w08_life_e7141a6773 in 1.78s[0m
+2026.11.03 14:36:26 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:36:26 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/Matrix.scala[0m
+2026.11.03 14:36:26 INFO  time: compiled w08_life_e7141a6773 in 0.92s[0m
+2026.11.03 14:36:30 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:36:30 INFO  time: compiled w08_life_e7141a6773 in 0.66s[0m
+2026.11.03 14:36:34 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:36:34 INFO  time: compiled w08_life_e7141a6773 in 0.96s[0m
+2026.11.03 14:36:50 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:36:50 INFO  time: compiled w08_life_e7141a6773 in 0.58s[0m
+2026.11.03 14:36:54 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:36:54 INFO  time: compiled w08_life_e7141a6773 in 0.42s[0m
+2026.11.03 14:36:59 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:36:59 INFO  time: compiled w08_life_e7141a6773 in 0.37s[0m
+2026.11.03 14:37:08 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:37:08 INFO  time: compiled w08_life_e7141a6773 in 0.51s[0m
+2026.11.03 14:37:10 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:37:10 INFO  time: compiled w08_life_e7141a6773 in 0.31s[0m
+2026.11.03 14:37:12 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:37:12 INFO  time: compiled w08_life_e7141a6773 in 0.35s[0m
+2026.11.03 14:37:16 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:37:16 INFO  time: compiled w08_life_e7141a6773 in 0.3s[0m
+2026.11.03 14:37:33 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:37:33 INFO  time: compiled w08_life_e7141a6773 in 0.27s[0m
+2026.11.03 14:37:37 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:37:37 INFO  time: compiled w08_life_e7141a6773 in 0.32s[0m
+2026.11.03 14:37:46 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:37:46 INFO  time: compiled w08_life_e7141a6773 in 0.26s[0m
+2026.11.03 14:37:48 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:37:48 INFO  time: compiled w08_life_e7141a6773 in 0.34s[0m
+2026.11.03 14:37:51 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:37:51 INFO  time: compiled w08_life_e7141a6773 in 0.39s[0m
+2026.11.03 14:37:53 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:37:53 INFO  time: compiled w08_life_e7141a6773 in 0.33s[0m
+2026.11.03 14:37:55 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:37:55 INFO  time: compiled w08_life_e7141a6773 in 0.26s[0m
+2026.11.03 14:38:00 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:38:00 INFO  time: compiled w08_life_e7141a6773 in 0.31s[0m
+2026.11.03 14:38:02 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:38:02 INFO  time: compiled w08_life_e7141a6773 in 0.31s[0m
+2026.11.03 14:38:08 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:38:08 INFO  time: compiled w08_life_e7141a6773 in 0.45s[0m
+2026.11.03 14:38:09 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:38:09 INFO  time: compiled w08_life_e7141a6773 in 0.41s[0m
+2026.11.03 14:38:11 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:38:11 INFO  time: compiled w08_life_e7141a6773 in 0.28s[0m
+2026.11.03 14:42:37 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:42:37 INFO  time: compiled w08_life_e7141a6773 in 0.34s[0m
+2026.11.03 14:42:38 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:42:38 INFO  time: compiled w08_life_e7141a6773 in 0.28s[0m
+2026.11.03 14:43:55 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:43:55 INFO  time: compiled w08_life_e7141a6773 in 0.35s[0m
+2026.11.03 14:43:58 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:43:58 INFO  time: compiled w08_life_e7141a6773 in 0.16s[0m
+2026.11.03 14:44:52 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:44:52 INFO  time: compiled w08_life_e7141a6773 in 0.24s[0m
+2026.11.03 14:44:58 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:44:58 INFO  time: compiled w08_life_e7141a6773 in 0.31s[0m
+2026.11.03 14:45:04 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:45:04 INFO  time: compiled w08_life_e7141a6773 in 0.27s[0m
+2026.11.03 14:45:15 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:45:15 INFO  time: compiled w08_life_e7141a6773 in 0.14s[0m
+2026.11.03 14:45:59 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:45:59 INFO  time: compiled w08_life_e7141a6773 in 0.25s[0m
+2026.11.03 14:46:30 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:46:30 INFO  time: compiled w08_life_e7141a6773 in 0.27s[0m
+2026.11.03 14:46:34 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:46:34 INFO  time: compiled w08_life_e7141a6773 in 0.28s[0m
+2026.11.03 14:47:18 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:47:18 INFO  time: compiled w08_life_e7141a6773 in 0.25s[0m
+2026.11.03 14:47:18 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:47:19 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/Matrix.scala[0m
+2026.11.03 14:47:18 INFO  time: compiled w08_life_e7141a6773 in 0.22s[0m
+2026.11.03 14:48:16 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:48:16 INFO  time: compiled w08_life_e7141a6773 in 0.27s[0m
+2026.11.03 14:48:22 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:48:22 INFO  time: compiled w08_life_e7141a6773 in 78ms[0m
+2026.11.03 14:48:28 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:48:28 INFO  time: compiled w08_life_e7141a6773 in 86ms[0m
+2026.11.03 14:48:33 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:48:33 INFO  time: compiled w08_life_e7141a6773 in 0.13s[0m
+2026.11.03 14:48:35 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:48:35 INFO  time: compiled w08_life_e7141a6773 in 0.2s[0m
+2026.11.03 14:48:38 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:48:38 INFO  time: compiled w08_life_e7141a6773 in 92ms[0m
+Nov 03, 2026 2:50:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.util.NoSuchElementException: token 314 out of 314
+java.util.concurrent.CompletionException: java.util.NoSuchElementException: token 314 out of 314
+	at java.base/java.util.concurrent.CompletableFuture.wrapInCompletionException(CompletableFuture.java:323)
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:376)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:391)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:729)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:531)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2221)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:517)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+Caused by: java.util.NoSuchElementException: token 314 out of 314
+	at scala.meta.tokens.Tokens.apply(Tokens.scala:33)
+	at scala.meta.internal.metals.formatting.MultilineString$$anonfun$collectStringAndInterpolations$1.findInterpolationEnd$1(MultilineString.scala:323)
+	at scala.meta.internal.metals.formatting.MultilineString$$anonfun$collectStringAndInterpolations$1.applyOrElse(MultilineString.scala:332)
+	at scala.meta.internal.metals.formatting.MultilineString$$anonfun$collectStringAndInterpolations$1.applyOrElse(MultilineString.scala:315)
+	at scala.collection.Iterator$$anon$7.hasNext(Iterator.scala:535)
+	at scala.collection.Iterator$$anon$6.hasNext(Iterator.scala:487)
+	at scala.collection.Iterator$$anon$6.hasNext(Iterator.scala:487)
+	at scala.collection.Iterator$$anon$9.hasNext(Iterator.scala:593)
+	at scala.collection.IterableOnceOps.find(IterableOnce.scala:687)
+	at scala.collection.IterableOnceOps.find$(IterableOnce.scala:685)
+	at scala.collection.AbstractIterator.find(Iterator.scala:1313)
+	at scala.meta.internal.metals.formatting.MultilineString.$anonfun$contribute$1(MultilineString.scala:502)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.formatting.MultilineString.contribute(MultilineString.scala:494)
+	at scala.meta.internal.metals.formatting.RangeFormattingProvider.$anonfun$format$5(RangeFormattingProvider.scala:65)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionList.loop$1(MetalsEnrichments.scala:341)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionList.acceptFirst(MetalsEnrichments.scala:350)
+	at scala.meta.internal.metals.formatting.RangeFormattingProvider.$anonfun$format$4(RangeFormattingProvider.scala:64)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.formatting.RangeFormattingProvider.$anonfun$format$3(RangeFormattingProvider.scala:53)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.formatting.RangeFormattingProvider.$anonfun$format$2(RangeFormattingProvider.scala:52)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.formatting.RangeFormattingProvider.format(RangeFormattingProvider.scala:50)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$rangeFormatting$2(MetalsLspService.scala:1086)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:500)
+	... 3 more
+
+2026.11.03 14:50:59 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:50:59 INFO  time: compiled w08_life_e7141a6773 in 0.13s[0m
+2026.11.03 14:51:16 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:51:16 INFO  time: compiled w08_life_e7141a6773 in 0.1s[0m
+2026.11.03 14:51:34 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:51:34 INFO  time: compiled w08_life_e7141a6773 in 97ms[0m
+2026.11.03 14:51:52 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:51:52 INFO  time: compiled w08_life_e7141a6773 in 95ms[0m
+2026.11.03 14:52:02 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:52:02 INFO  time: compiled w08_life_e7141a6773 in 0.12s[0m
+2026.11.03 14:52:03 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:52:03 INFO  time: compiled w08_life_e7141a6773 in 90ms[0m
+2026.11.03 14:52:31 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:52:31 INFO  time: compiled w08_life_e7141a6773 in 92ms[0m
+2026.11.03 14:52:34 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:52:34 INFO  time: compiled w08_life_e7141a6773 in 0.27s[0m
+2026.11.03 14:53:35 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:53:35 INFO  time: compiled w08_life_e7141a6773 in 0.25s[0m
+2026.11.03 14:55:38 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:55:38 INFO  time: compiled w08_life_e7141a6773 in 0.25s[0m
+2026.11.03 14:55:39 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:55:39 INFO  time: compiled w08_life_e7141a6773 in 0.27s[0m
+2026.11.03 14:56:01 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:56:01 INFO  time: compiled w08_life_e7141a6773 in 0.22s[0m
+2026.11.03 14:56:11 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:56:11 INFO  time: compiled w08_life_e7141a6773 in 0.43s[0m
+2026.11.03 14:57:55 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:57:55 INFO  time: compiled w08_life_e7141a6773 in 0.26s[0m
+2026.11.03 14:57:59 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 14:57:59 INFO  time: compiled w08_life_e7141a6773 in 0.29s[0m
+2026.11.03 15:04:31 WARN  Could not find semantic tokens for: file:///home/tedlu/workspace/workspace/w08_life/project.scala[0m
+2026.11.03 15:04:31 WARN  Could not find semantic tokens for: file:///home/tedlu/workspace/workspace/w08_life/project.scala[0m
+Nov 03, 2026 4:53:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4047
+2026.11.03 16:53:43 WARN  Could not find semantic tokens for: file:///home/tedlu/workspace/workspace/w08_life/project.scala[0m
+2026.11.03 16:53:43 WARN  Could not find semantic tokens for: file:///home/tedlu/workspace/workspace/w08_life/project.scala[0m
+2026.11.03 16:55:17 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 16:55:17 INFO  time: compiled w08_life_e7141a6773 in 0.33s[0m
+2026.11.03 16:55:39 WARN  Could not find semantic tokens for: file:///home/tedlu/workspace/workspace/w08_life/project.scala[0m
+2026.11.03 16:55:40 WARN  Could not find semantic tokens for: file:///home/tedlu/workspace/workspace/w08_life/project.scala[0m
+2026.11.03 16:55:50 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 16:55:50 INFO  time: compiled w08_life_e7141a6773 in 0.31s[0m
+2026.11.03 16:56:04 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 16:56:04 INFO  time: compiled w08_life_e7141a6773 in 0.52s[0m
+2026.11.03 16:56:17 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 16:56:17 INFO  time: compiled w08_life_e7141a6773 in 0.14s[0m
+2026.11.03 16:56:37 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 16:56:37 INFO  time: compiled w08_life_e7141a6773 in 0.24s[0m
+2026.11.03 16:56:53 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 16:56:53 INFO  time: compiled w08_life_e7141a6773 in 0.26s[0m
+2026.11.03 16:57:10 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 16:57:10 INFO  time: compiled w08_life_e7141a6773 in 0.14s[0m
+2026.11.03 16:57:23 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 16:57:23 INFO  time: compiled w08_life_e7141a6773 in 0.24s[0m
+Nov 03, 2026 5:09:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4904
+2026.11.03 17:09:38 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:09:38 INFO  time: compiled w08_life_e7141a6773 in 0.42s[0m
+2026.11.03 17:09:52 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:09:52 INFO  time: compiled w08_life_e7141a6773 in 0.23s[0m
+2026.11.03 17:10:12 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:10:12 INFO  time: compiled w08_life_e7141a6773 in 70ms[0m
+2026.11.03 17:10:14 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:10:14 INFO  time: compiled w08_life_e7141a6773 in 0.24s[0m
+2026.11.03 17:10:38 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:10:38 INFO  time: compiled w08_life_e7141a6773 in 0.23s[0m
+2026.11.03 17:11:10 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:11:10 INFO  time: compiled w08_life_e7141a6773 in 74ms[0m
+2026.11.03 17:11:11 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:11:11 INFO  time: compiled w08_life_e7141a6773 in 0.22s[0m
+2026.11.03 17:12:44 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:12:44 INFO  time: compiled w08_life_e7141a6773 in 0.29s[0m
+2026.11.03 17:15:10 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:15:10 INFO  time: compiled w08_life_e7141a6773 in 0.3s[0m
+2026.11.03 17:15:15 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:15:15 INFO  time: compiled w08_life_e7141a6773 in 0.22s[0m
+2026.11.03 17:15:40 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:15:40 INFO  time: compiled w08_life_e7141a6773 in 0.23s[0m
+2026.11.03 17:15:44 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:15:44 INFO  time: compiled w08_life_e7141a6773 in 0.13s[0m
+2026.11.03 17:16:12 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:16:12 INFO  time: compiled w08_life_e7141a6773 in 86ms[0m
+2026.11.03 17:17:17 WARN  Could not find semantic tokens for: file:///home/tedlu/workspace/workspace/w08_life/project.scala[0m
+2026.11.03 17:17:17 WARN  Could not find semantic tokens for: file:///home/tedlu/workspace/workspace/w08_life/project.scala[0m
+2026.11.03 17:17:41 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:17:41 INFO  time: compiled w08_life_e7141a6773 in 0.12s[0m
+2026.11.03 17:18:16 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:18:16 INFO  time: compiled w08_life_e7141a6773 in 0.12s[0m
+2026.11.03 17:18:24 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:18:24 INFO  time: compiled w08_life_e7141a6773 in 0.14s[0m
+2026.11.03 17:19:03 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:19:03 INFO  time: compiled w08_life_e7141a6773 in 0.36s[0m
+2026.11.03 17:19:11 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:19:11 INFO  time: compiled w08_life_e7141a6773 in 0.22s[0m
+2026.11.03 17:19:12 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:19:12 INFO  time: compiled w08_life_e7141a6773 in 0.19s[0m
+2026.11.03 17:19:13 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:19:13 INFO  time: compiled w08_life_e7141a6773 in 0.4s[0m
+2026.11.03 17:19:14 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/Life.scala[0m
+2026.11.03 17:19:13 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:19:14 INFO  time: compiled w08_life_e7141a6773 in 0.36s[0m
+2026.11.03 17:20:22 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:20:22 INFO  time: compiled w08_life_e7141a6773 in 0.22s[0m
+2026.11.03 17:20:25 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:20:25 INFO  time: compiled w08_life_e7141a6773 in 0.18s[0m
+2026.11.03 17:20:30 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:20:30 INFO  time: compiled w08_life_e7141a6773 in 0.26s[0m
+2026.11.03 17:20:34 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:20:34 INFO  time: compiled w08_life_e7141a6773 in 0.3s[0m
+2026.11.03 17:20:36 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:20:36 INFO  time: compiled w08_life_e7141a6773 in 0.22s[0m
+2026.11.03 17:20:59 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:20:59 INFO  time: compiled w08_life_e7141a6773 in 0.29s[0m
+2026.11.03 17:21:18 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:21:18 INFO  time: compiled w08_life_e7141a6773 in 0.19s[0m
+2026.11.03 17:21:23 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:21:23 INFO  time: compiled w08_life_e7141a6773 in 0.23s[0m
+2026.11.03 17:21:25 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:21:25 INFO  time: compiled w08_life_e7141a6773 in 0.23s[0m
+2026.11.03 17:22:04 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:22:04 INFO  time: compiled w08_life_e7141a6773 in 0.2s[0m
+2026.11.03 17:22:05 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:22:05 INFO  time: compiled w08_life_e7141a6773 in 0.2s[0m
+2026.11.03 17:25:15 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:25:15 INFO  time: compiled w08_life_e7141a6773 in 0.25s[0m
+2026.11.03 17:26:08 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:26:08 INFO  time: compiled w08_life_e7141a6773 in 85ms[0m
+2026.11.03 17:26:13 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:26:13 INFO  time: compiled w08_life_e7141a6773 in 85ms[0m
+2026.11.03 17:26:15 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:26:15 INFO  time: compiled w08_life_e7141a6773 in 0.1s[0m
+2026.11.03 17:26:24 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:26:24 INFO  time: compiled w08_life_e7141a6773 in 0.17s[0m
+2026.11.03 17:27:21 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:27:21 INFO  time: compiled w08_life_e7141a6773 in 99ms[0m
+2026.11.03 17:27:24 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:27:24 INFO  time: compiled w08_life_e7141a6773 in 0.31s[0m
+2026.11.03 17:28:32 WARN  Could not find semantic tokens for: file:///home/tedlu/workspace/workspace/w08_life/project.scala[0m
+2026.11.03 17:28:32 WARN  Could not find semantic tokens for: file:///home/tedlu/workspace/workspace/w08_life/project.scala[0m
+2026.11.03 17:28:52 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:28:52 INFO  time: compiled w08_life_e7141a6773 in 89ms[0m
+2026.11.03 17:28:57 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:28:57 INFO  time: compiled w08_life_e7141a6773 in 72ms[0m
+2026.11.03 17:29:06 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:29:06 INFO  time: compiled w08_life_e7141a6773 in 88ms[0m
+2026.11.03 17:29:39 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:29:39 INFO  time: compiled w08_life_e7141a6773 in 71ms[0m
+2026.11.03 17:30:35 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:30:35 INFO  time: compiled w08_life_e7141a6773 in 81ms[0m
+2026.11.03 17:30:49 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:30:49 INFO  time: compiled w08_life_e7141a6773 in 74ms[0m
+2026.11.03 17:31:02 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:31:02 INFO  time: compiled w08_life_e7141a6773 in 0.3s[0m
+2026.11.03 17:31:10 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:31:10 INFO  time: compiled w08_life_e7141a6773 in 71ms[0m
+2026.11.03 17:31:16 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:31:16 INFO  time: compiled w08_life_e7141a6773 in 71ms[0m
+2026.11.03 17:31:21 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:31:21 INFO  time: compiled w08_life_e7141a6773 in 77ms[0m
+2026.11.03 17:31:47 WARN  Could not find semantic tokens for: file:///home/tedlu/workspace/workspace/w08_life/project.scala[0m
+2026.11.03 17:31:47 WARN  Could not find semantic tokens for: file:///home/tedlu/workspace/workspace/w08_life/project.scala[0m
+2026.11.03 17:32:17 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:32:17 INFO  time: compiled w08_life_e7141a6773 in 69ms[0m
+2026.11.03 17:32:28 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:32:28 INFO  time: compiled w08_life_e7141a6773 in 66ms[0m
+2026.11.03 17:32:50 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:32:50 INFO  time: compiled w08_life_e7141a6773 in 0.26s[0m
+2026.11.03 17:32:54 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:32:54 INFO  time: compiled w08_life_e7141a6773 in 0.22s[0m
+2026.11.03 17:32:56 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:32:56 INFO  time: compiled w08_life_e7141a6773 in 0.39s[0m
+2026.11.03 17:32:57 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:32:57 INFO  time: compiled w08_life_e7141a6773 in 0.35s[0m
+2026.11.03 17:34:52 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:34:52 INFO  time: compiled w08_life_e7141a6773 in 86ms[0m
+2026.11.03 17:35:12 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:35:12 INFO  time: compiled w08_life_e7141a6773 in 0.27s[0m
+2026.11.03 17:35:21 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:35:21 INFO  time: compiled w08_life_e7141a6773 in 0.25s[0m
+2026.11.03 17:36:24 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:36:24 INFO  time: compiled w08_life_e7141a6773 in 0.11s[0m
+2026.11.03 17:36:36 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:36:36 INFO  time: compiled w08_life_e7141a6773 in 0.24s[0m
+2026.11.03 17:36:55 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:36:55 INFO  time: compiled w08_life_e7141a6773 in 0.26s[0m
+2026.11.03 17:38:09 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:38:09 INFO  time: compiled w08_life_e7141a6773 in 0.3s[0m
+2026.11.03 17:38:15 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:38:15 INFO  time: compiled w08_life_e7141a6773 in 0.2s[0m
+2026.11.03 17:39:45 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:39:45 INFO  time: compiled w08_life_e7141a6773 in 0.1s[0m
+2026.11.03 17:40:07 INFO  Created report: Optional[file:///home/tedlu/workspace/workspace/w08_life/Life.scala][0m
+2026.11.03 17:40:07 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "/home/tedlu/workspace/workspace/w08_life/.metals/.reports/metals-full/2026-11-03/r_empty-definition_(w08_5flife_5fe7141a6773)_17-40-07-317.md")[0m
+2026.11.03 17:40:38 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:40:38 INFO  time: compiled w08_life_e7141a6773 in 0.27s[0m
+2026.11.03 17:42:47 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:42:47 INFO  time: compiled w08_life_e7141a6773 in 0.34s[0m
+2026.11.03 17:42:50 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:42:50 INFO  time: compiled w08_life_e7141a6773 in 0.11s[0m
+2026.11.03 17:42:54 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:42:54 INFO  time: compiled w08_life_e7141a6773 in 0.25s[0m
+2026.11.03 17:42:56 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:42:56 INFO  time: compiled w08_life_e7141a6773 in 0.23s[0m
+2026.11.03 17:44:29 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:44:29 INFO  time: compiled w08_life_e7141a6773 in 0.12s[0m
+Nov 03, 2026 5:46:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10963
+2026.11.03 17:47:30 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:47:30 INFO  time: compiled w08_life_e7141a6773 in 0.36s[0m
+2026.11.03 17:47:36 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:47:36 INFO  time: compiled w08_life_e7141a6773 in 0.37s[0m
+2026.11.03 17:48:05 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:48:05 INFO  time: compiled w08_life_e7141a6773 in 0.26s[0m
+2026.11.03 17:48:14 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:48:14 INFO  time: compiled w08_life_e7141a6773 in 0.28s[0m
+Nov 03, 2026 5:52:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11652
+2026.11.03 17:54:05 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:54:05 INFO  time: compiled w08_life_e7141a6773 in 0.33s[0m
+2026.11.03 17:54:20 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:54:20 INFO  time: compiled w08_life_e7141a6773 in 0.25s[0m
+2026.11.03 17:57:16 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:57:16 INFO  time: compiled w08_life_e7141a6773 in 0.17s[0m
+2026.11.03 17:59:59 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 17:59:59 INFO  time: compiled w08_life_e7141a6773 in 0.37s[0m
+2026.11.03 18:00:17 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:00:17 INFO  time: compiled w08_life_e7141a6773 in 0.12s[0m
+2026.11.03 18:01:36 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:01:36 INFO  time: compiled w08_life_e7141a6773 in 0.32s[0m
+Nov 03, 2026 6:09:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12575
+2026.11.03 18:10:50 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:10:50 INFO  time: compiled w08_life_e7141a6773 in 0.36s[0m
+2026.11.03 18:12:08 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:12:08 INFO  time: compiled w08_life_e7141a6773 in 0.36s[0m
+2026.11.03 18:12:20 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:12:20 INFO  time: compiled w08_life_e7141a6773 in 0.11s[0m
+2026.11.03 18:12:57 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:12:57 INFO  time: compiled w08_life_e7141a6773 in 0.31s[0m
+2026.11.03 18:13:38 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:13:38 INFO  time: compiled w08_life_e7141a6773 in 0.22s[0m
+2026.11.03 18:13:51 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:13:51 INFO  time: compiled w08_life_e7141a6773 in 0.13s[0m
+2026.11.03 18:13:59 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:13:59 INFO  time: compiled w08_life_e7141a6773 in 93ms[0m
+2026.11.03 18:14:23 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:14:23 INFO  time: compiled w08_life_e7141a6773 in 0.23s[0m
+2026.11.03 18:14:53 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:14:53 INFO  time: compiled w08_life_e7141a6773 in 0.21s[0m
+2026.11.03 18:15:14 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:15:14 INFO  time: compiled w08_life_e7141a6773 in 0.11s[0m
+2026.11.03 18:15:36 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:15:36 INFO  time: compiled w08_life_e7141a6773 in 0.25s[0m
+2026.11.03 18:16:08 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:16:08 INFO  time: compiled w08_life_e7141a6773 in 0.12s[0m
+2026.11.03 18:16:19 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:16:19 INFO  time: compiled w08_life_e7141a6773 in 0.1s[0m
+2026.11.03 18:16:26 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:16:26 INFO  time: compiled w08_life_e7141a6773 in 0.11s[0m
+2026.11.03 18:16:30 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:16:30 INFO  time: compiled w08_life_e7141a6773 in 0.15s[0m
+2026.11.03 18:16:33 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:16:33 INFO  time: compiled w08_life_e7141a6773 in 88ms[0m
+2026.11.03 18:16:40 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:16:40 INFO  time: compiled w08_life_e7141a6773 in 97ms[0m
+2026.11.03 18:17:45 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:17:45 INFO  time: compiled w08_life_e7141a6773 in 0.22s[0m
+2026.11.03 18:17:53 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:17:53 INFO  time: compiled w08_life_e7141a6773 in 0.24s[0m
+Nov 03, 2026 6:18:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14153
+2026.11.03 18:18:11 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:18:11 INFO  time: compiled w08_life_e7141a6773 in 0.26s[0m
+2026.11.03 18:18:28 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:18:28 INFO  time: compiled w08_life_e7141a6773 in 0.53s[0m
+2026.11.03 18:19:34 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:19:34 INFO  time: compiled w08_life_e7141a6773 in 0.23s[0m
+2026.11.03 18:19:52 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:19:52 INFO  time: compiled w08_life_e7141a6773 in 0.55s[0m
+2026.11.03 18:20:52 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:20:52 INFO  time: compiled w08_life_e7141a6773 in 0.5s[0m
+2026.11.03 18:21:41 WARN  Could not find semantic tokens for: file:///home/tedlu/workspace/workspace/w08_life/project.scala[0m
+2026.11.03 18:21:41 WARN  Could not find semantic tokens for: file:///home/tedlu/workspace/workspace/w08_life/project.scala[0m
+2026.11.03 18:22:44 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:22:44 INFO  time: compiled w08_life_e7141a6773 in 0.72s[0m
+Nov 03, 2026 6:23:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15048
+2026.11.03 18:23:26 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:23:26 INFO  time: compiled w08_life_e7141a6773 in 0.52s[0m
+2026.11.03 18:23:28 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:23:28 INFO  time: compiled w08_life_e7141a6773 in 0.74s[0m
+2026.11.03 18:23:34 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:23:34 INFO  time: compiled w08_life_e7141a6773 in 0.42s[0m
+2026.11.03 18:24:12 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:24:12 INFO  time: compiled w08_life_e7141a6773 in 0.42s[0m
+2026.11.03 18:24:30 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:24:30 INFO  time: compiled w08_life_e7141a6773 in 0.19s[0m
+2026.11.03 18:24:38 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:24:38 INFO  time: compiled w08_life_e7141a6773 in 0.45s[0m
+2026.11.03 18:24:56 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:24:56 INFO  time: compiled w08_life_e7141a6773 in 0.6s[0m
+2026.11.03 18:25:01 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:25:01 INFO  time: compiled w08_life_e7141a6773 in 0.22s[0m
+2026.11.03 18:28:13 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:28:13 INFO  time: compiled w08_life_e7141a6773 in 0.96s[0m
+Nov 03, 2026 6:28:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16160
+2026.11.03 18:28:24 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:28:24 INFO  time: compiled w08_life_e7141a6773 in 0.49s[0m
+2026.11.03 18:28:47 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:28:47 INFO  time: compiled w08_life_e7141a6773 in 0.26s[0m
+2026.11.03 18:28:56 WARN  Could not find 'Life' using presentation compiler nor semanticdb. Trying to guess the definition using available information from local class context. [0m
+2026.11.03 18:28:56 INFO  Created report: Optional[file:///home/tedlu/workspace/workspace/w08_life/Life.scala][0m
+2026.11.03 18:28:56 INFO  empty definition using pc, found symbol in pc:  (full report at: "/home/tedlu/workspace/workspace/w08_life/.metals/.reports/metals-full/2026-11-03/r_empty-definition_(w08_5flife_5fe7141a6773)_18-28-56-149.md")[0m
+2026.11.03 18:29:04 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:29:04 INFO  time: compiled w08_life_e7141a6773 in 0.48s[0m
+Nov 03, 2026 6:30:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16423
+2026.11.03 18:30:50 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:30:50 INFO  time: compiled w08_life_e7141a6773 in 0.64s[0m
+2026.11.03 18:30:56 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:30:56 INFO  time: compiled w08_life_e7141a6773 in 0.72s[0m
+2026.11.03 18:31:06 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:31:06 INFO  time: compiled w08_life_e7141a6773 in 0.47s[0m
+2026.11.03 18:31:09 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:31:09 INFO  time: compiled w08_life_e7141a6773 in 0.74s[0m
+2026.11.03 18:32:58 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:32:58 INFO  time: compiled w08_life_e7141a6773 in 0.21s[0m
+2026.11.03 18:33:09 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:33:09 INFO  time: compiled w08_life_e7141a6773 in 0.22s[0m
+2026.11.03 18:33:14 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "/home/tedlu/workspace/workspace/w08_life/.metals/.reports/metals-full/2026-11-03/r_empty-definition_(w08_5flife_5fe7141a6773)_17-40-07-317.md")[0m
+2026.11.03 18:33:19 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "/home/tedlu/workspace/workspace/w08_life/.metals/.reports/metals-full/2026-11-03/r_empty-definition_(w08_5flife_5fe7141a6773)_17-40-07-317.md")[0m
+2026.11.03 18:33:22 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "/home/tedlu/workspace/workspace/w08_life/.metals/.reports/metals-full/2026-11-03/r_empty-definition_(w08_5flife_5fe7141a6773)_17-40-07-317.md")[0m
+2026.11.03 18:33:24 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:33:24 INFO  time: compiled w08_life_e7141a6773 in 0.23s[0m
+2026.11.03 18:33:28 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:33:28 INFO  time: compiled w08_life_e7141a6773 in 0.47s[0m
+2026.11.03 18:36:16 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:36:16 INFO  time: compiled w08_life_e7141a6773 in 0.36s[0m
+2026.11.03 18:37:06 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:37:06 INFO  time: compiled w08_life_e7141a6773 in 0.54s[0m
+2026.11.03 18:41:16 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:41:16 INFO  time: compiled w08_life_e7141a6773 in 0.61s[0m
+2026.11.03 18:41:26 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:41:26 INFO  time: compiled w08_life_e7141a6773 in 0.44s[0m
+2026.11.03 18:41:50 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:41:50 INFO  time: compiled w08_life_e7141a6773 in 0.22s[0m
+2026.11.03 18:41:58 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:41:58 INFO  time: compiled w08_life_e7141a6773 in 0.42s[0m
+2026.11.03 18:42:39 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:42:39 INFO  time: compiled w08_life_e7141a6773 in 0.19s[0m
+2026.11.03 18:42:47 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:42:47 INFO  time: compiled w08_life_e7141a6773 in 0.48s[0m
+2026.11.03 18:46:03 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:46:03 INFO  time: compiled w08_life_e7141a6773 in 0.32s[0m
+2026.11.03 18:48:00 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:48:00 INFO  time: compiled w08_life_e7141a6773 in 0.64s[0m
+2026.11.03 18:51:17 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:51:18 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:51:18 INFO  time: compiled w08_life_e7141a6773 in 1.35s[0m
+2026.11.03 18:51:19 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:51:19 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:51:22 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:51:23 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:51:23 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:51:23 INFO  time: compiled w08_life_e7141a6773 in 0.2s[0m
+2026.11.03 18:51:24 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:51:26 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:51:55 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:52:01 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:52:01 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:52:01 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:52:03 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:52:03 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:52:04 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:52:05 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:52:26 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:52:26 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:52:27 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:52:32 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:52:33 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:52:37 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:52:39 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:52:39 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:52:40 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:52:42 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:52:42 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:52:43 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:52:43 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:52:46 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:52:47 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:52:47 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:52:49 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:52:51 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:52:51 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:52:52 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:52:53 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:52:54 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:52:55 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:52:56 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:52:59 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:53:00 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:53:01 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:53:02 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:53:03 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:53:09 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:53:13 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:53:14 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:53:14 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:53:15 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:53:16 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:53:16 INFO  time: compiled w08_life_e7141a6773 in 0.74s[0m
+2026.11.03 18:53:17 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:53:27 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:53:27 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:53:28 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:53:28 INFO  time: compiled w08_life_e7141a6773 in 0.22s[0m
+2026.11.03 18:53:29 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:53:29 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:53:30 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:53:30 INFO  time: compiled w08_life_e7141a6773 in 0.55s[0m
+2026.11.03 18:53:31 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:53:37 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:53:38 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:53:40 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:53:41 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:53:41 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:53:43 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:53:44 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:53:45 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:53:46 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:53:46 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:53:47 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:53:48 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:53:49 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:53:50 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:53:51 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:53:51 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:53:53 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:53:54 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:53:56 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:53:56 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:53:56 INFO  time: compiled w08_life_e7141a6773 in 0.54s[0m
+2026.11.03 18:53:57 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:54:23 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:54:40 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:54:41 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:54:50 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:54:55 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:54:59 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:54:59 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:55:01 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:55:02 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:55:05 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:55:06 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:55:07 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:55:08 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:55:10 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:55:19 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:55:19 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:55:23 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:55:30 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:55:34 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:55:35 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:55:36 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:55:37 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:55:38 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:55:40 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:55:40 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:55:42 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:55:43 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:55:43 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:55:43 INFO  time: compiled w08_life_e7141a6773 in 0.6s[0m
+2026.11.03 18:55:44 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:55:46 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:55:48 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 18:55:48 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:55:48 INFO  time: compiled w08_life_e7141a6773 in 0.53s[0m
+2026.11.03 18:57:04 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:57:04 INFO  time: compiled w08_life_e7141a6773 in 0.73s[0m
+2026.11.03 18:57:11 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:57:11 INFO  time: compiled w08_life_e7141a6773 in 0.45s[0m
+Nov 03, 2026 6:57:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 20372
+2026.11.03 18:57:27 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:57:27 INFO  time: compiled w08_life_e7141a6773 in 0.44s[0m
+2026.11.03 18:57:30 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:57:30 INFO  time: compiled w08_life_e7141a6773 in 0.46s[0m
+2026.11.03 18:57:34 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:57:34 INFO  time: compiled w08_life_e7141a6773 in 0.35s[0m
+2026.11.03 18:57:36 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:57:36 INFO  time: compiled w08_life_e7141a6773 in 0.22s[0m
+2026.11.03 18:57:36 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:57:37 INFO  time: compiled w08_life_e7141a6773 in 0.43s[0m
+2026.11.03 18:58:17 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:58:17 INFO  time: compiled w08_life_e7141a6773 in 0.42s[0m
+2026.11.03 18:58:19 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:58:19 INFO  time: compiled w08_life_e7141a6773 in 0.38s[0m
+2026.11.03 18:58:32 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:58:32 INFO  time: compiled w08_life_e7141a6773 in 0.42s[0m
+2026.11.03 18:58:34 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:58:34 INFO  time: compiled w08_life_e7141a6773 in 0.15s[0m
+2026.11.03 18:58:40 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:58:40 INFO  time: compiled w08_life_e7141a6773 in 0.37s[0m
+2026.11.03 18:58:44 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:58:44 INFO  time: compiled w08_life_e7141a6773 in 0.19s[0m
+2026.11.03 18:58:53 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 18:58:53 INFO  time: compiled w08_life_e7141a6773 in 0.33s[0m
+2026.11.03 19:00:31 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:00:31 INFO  time: compiled w08_life_e7141a6773 in 0.28s[0m
+2026.11.03 19:00:31 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:00:37 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:00:41 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:00:42 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:00:41 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:00:42 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:00:44 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:00:48 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:03:03 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:03:05 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:03:06 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:03:08 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:03:08 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:03:09 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:03:10 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:03:11 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:03:14 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:03:14 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:03:14 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:03:15 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:03:23 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:03:24 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:03:33 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:03:51 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:03:54 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:03:55 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:03:57 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:03:57 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:03:59 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:04:02 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:04:02 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:04:02 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:04:04 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:04:04 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:04:05 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:04:05 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:04:11 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:04:12 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:04:12 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:04:12 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:04:12 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:04:12 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:04:12 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:04:15 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:04:15 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:04:16 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:04:17 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:04:17 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:04:20 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:04:23 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:04:53 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:04:54 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:04:54 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:04:57 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:04:57 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:04:59 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:05:01 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:05:03 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:05:07 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:05:08 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:05:09 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:05:09 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:05:09 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:05:13 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:05:14 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:05:14 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:05:15 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:05:16 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:05:18 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:05:18 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:05:20 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:05:24 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:05:54 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:06:03 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:06:04 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:06:09 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:06:15 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:06:15 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:06:16 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:06:18 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:06:18 INFO  time: compiled w08_life_e7141a6773 in 0.61s[0m
+2026.11.03 19:06:22 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:06:22 INFO  time: compiled w08_life_e7141a6773 in 0.22s[0m
+Nov 03, 2026 7:06:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 21772
+2026.11.03 19:07:04 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:07:04 INFO  time: compiled w08_life_e7141a6773 in 0.45s[0m
+2026.11.03 19:07:11 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:07:11 INFO  time: compiled w08_life_e7141a6773 in 0.19s[0m
+2026.11.03 19:07:21 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:07:21 INFO  time: compiled w08_life_e7141a6773 in 0.46s[0m
+Nov 03, 2026 7:07:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22012
+2026.11.03 19:07:41 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:07:41 INFO  time: compiled w08_life_e7141a6773 in 0.42s[0m
+2026.11.03 19:07:42 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:07:42 INFO  time: compiled w08_life_e7141a6773 in 0.26s[0m
+2026.11.03 19:09:11 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:09:11 INFO  time: compiled w08_life_e7141a6773 in 0.68s[0m
+2026.11.03 19:09:48 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:09:48 INFO  time: compiled w08_life_e7141a6773 in 0.59s[0m
+2026.11.03 19:09:49 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:09:48 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:09:50 INFO  time: compiled w08_life_e7141a6773 in 0.77s[0m
+2026.11.03 19:10:15 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:10:15 INFO  time: compiled w08_life_e7141a6773 in 0.57s[0m
+2026.11.03 19:10:58 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:10:58 INFO  time: compiled w08_life_e7141a6773 in 0.6s[0m
+2026.11.03 19:11:00 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:11:00 INFO  time: compiled w08_life_e7141a6773 in 0.52s[0m
+2026.11.03 19:11:07 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:11:07 INFO  time: compiled w08_life_e7141a6773 in 0.56s[0m
+2026.11.03 19:11:11 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:11:11 INFO  time: compiled w08_life_e7141a6773 in 0.49s[0m
+Nov 03, 2026 7:13:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22799
+2026.11.03 19:13:35 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:13:35 INFO  time: compiled w08_life_e7141a6773 in 0.71s[0m
+2026.11.03 19:13:40 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:13:40 INFO  time: compiled w08_life_e7141a6773 in 0.6s[0m
+2026.11.03 19:13:44 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:13:44 INFO  time: compiled w08_life_e7141a6773 in 0.54s[0m
+2026.11.03 19:13:47 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:13:47 INFO  time: compiled w08_life_e7141a6773 in 0.71s[0m
+2026.11.03 19:13:50 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:13:50 INFO  time: compiled w08_life_e7141a6773 in 0.59s[0m
+2026.11.03 19:13:53 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:13:53 INFO  time: compiled w08_life_e7141a6773 in 0.69s[0m
+2026.11.03 19:13:55 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:13:57 INFO  time: compiled w08_life_e7141a6773 in 1.45s[0m
+2026.11.03 19:13:58 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:13:58 INFO  time: compiled w08_life_e7141a6773 in 0.5s[0m
+2026.11.03 19:14:00 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:14:00 INFO  time: compiled w08_life_e7141a6773 in 0.55s[0m
+2026.11.03 19:14:04 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:14:04 INFO  time: compiled w08_life_e7141a6773 in 0.53s[0m
+2026.11.03 19:15:40 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:15:40 INFO  time: compiled w08_life_e7141a6773 in 0.61s[0m
+2026.11.03 19:15:48 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:15:48 INFO  time: compiled w08_life_e7141a6773 in 0.5s[0m
+2026.11.03 19:15:50 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:15:50 INFO  time: compiled w08_life_e7141a6773 in 0.46s[0m
+2026.11.03 19:15:54 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:15:54 INFO  time: compiled w08_life_e7141a6773 in 0.51s[0m
+Nov 03, 2026 7:16:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23172
+2026.11.03 19:17:55 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:17:55 INFO  time: compiled w08_life_e7141a6773 in 0.76s[0m
+2026.11.03 19:17:57 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:17:57 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:17:58 INFO  time: compiled w08_life_e7141a6773 in 1.1s[0m
+2026.11.03 19:17:58 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:17:58 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:17:59 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:17:59 INFO  time: compiled w08_life_e7141a6773 in 0.74s[0m
+2026.11.03 19:18:00 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:18:00 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:18:02 INFO  time: compiled w08_life_e7141a6773 in 1.21s[0m
+2026.11.03 19:18:13 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:18:13 INFO  time: compiled w08_life_e7141a6773 in 0.56s[0m
+2026.11.03 19:18:15 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:18:15 INFO  time: compiled w08_life_e7141a6773 in 0.53s[0m
+2026.11.03 19:19:22 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:19:22 INFO  time: compiled w08_life_e7141a6773 in 0.51s[0m
+2026.11.03 19:19:26 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:19:26 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:19:26 INFO  time: compiled w08_life_e7141a6773 in 0.34s[0m
+2026.11.03 19:19:26 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:19:27 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:19:27 INFO  time: compiled w08_life_e7141a6773 in 0.56s[0m
+2026.11.03 19:20:54 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:20:54 INFO  time: compiled w08_life_e7141a6773 in 0.56s[0m
+2026.11.03 19:21:08 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:21:08 INFO  time: compiled w08_life_e7141a6773 in 0.37s[0m
+2026.11.03 19:21:10 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:21:10 INFO  time: compiled w08_life_e7141a6773 in 0.47s[0m
+2026.11.03 19:23:19 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:23:19 INFO  time: compiled w08_life_e7141a6773 in 0.35s[0m
+2026.11.03 19:23:26 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:23:26 INFO  time: compiled w08_life_e7141a6773 in 0.59s[0m
+2026.11.03 19:25:15 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:25:15 INFO  time: compiled w08_life_e7141a6773 in 0.29s[0m
+2026.11.03 19:25:35 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:25:35 INFO  time: compiled w08_life_e7141a6773 in 0.66s[0m
+2026.11.03 19:25:37 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:25:37 INFO  time: compiled w08_life_e7141a6773 in 0.74s[0m
+2026.11.03 19:26:00 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:26:00 INFO  time: compiled w08_life_e7141a6773 in 0.54s[0m
+2026.11.03 19:26:04 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:26:04 INFO  time: compiled w08_life_e7141a6773 in 0.25s[0m
+2026.11.03 19:26:08 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:26:08 INFO  time: compiled w08_life_e7141a6773 in 0.54s[0m
+2026.11.03 19:26:23 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:26:23 INFO  time: compiled w08_life_e7141a6773 in 0.5s[0m
+2026.11.03 19:26:39 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:26:39 INFO  time: compiled w08_life_e7141a6773 in 0.32s[0m
+2026.11.03 19:26:56 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:26:56 INFO  time: compiled w08_life_e7141a6773 in 0.27s[0m
+Nov 03, 2026 7:27:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 24701
+2026.11.03 19:27:44 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:27:44 INFO  time: compiled w08_life_e7141a6773 in 0.57s[0m
+2026.11.03 19:28:02 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:28:02 INFO  time: compiled w08_life_e7141a6773 in 0.53s[0m
+2026.11.03 19:28:22 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:28:22 INFO  time: compiled w08_life_e7141a6773 in 0.68s[0m
+2026.11.03 19:28:31 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:28:31 INFO  time: compiled w08_life_e7141a6773 in 0.53s[0m
+2026.11.03 19:28:34 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:28:34 INFO  time: compiled w08_life_e7141a6773 in 0.29s[0m
+2026.11.03 19:28:46 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:28:46 INFO  time: compiled w08_life_e7141a6773 in 0.53s[0m
+2026.11.03 19:29:31 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:29:31 INFO  time: compiled w08_life_e7141a6773 in 0.32s[0m
+2026.11.03 19:29:51 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:29:51 INFO  time: compiled w08_life_e7141a6773 in 0.75s[0m
+2026.11.03 19:30:27 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:30:27 INFO  time: compiled w08_life_e7141a6773 in 0.72s[0m
+2026.11.03 19:30:43 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:30:43 INFO  time: compiled w08_life_e7141a6773 in 0.53s[0m
+2026.11.03 19:31:20 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:31:20 INFO  time: compiled w08_life_e7141a6773 in 0.55s[0m
+2026.11.03 19:31:22 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:31:22 INFO  time: compiled w08_life_e7141a6773 in 0.58s[0m
+2026.11.03 19:32:21 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:32:21 INFO  time: compiled w08_life_e7141a6773 in 0.34s[0m
+2026.11.03 19:32:24 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:32:24 INFO  time: compiled w08_life_e7141a6773 in 0.51s[0m
+2026.11.03 19:32:36 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:32:36 INFO  time: compiled w08_life_e7141a6773 in 0.33s[0m
+2026.11.03 19:32:36 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:32:37 INFO  time: compiled w08_life_e7141a6773 in 1s[0m
+Nov 03, 2026 7:32:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 25699
+2026.11.03 19:32:52 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:32:52 INFO  time: compiled w08_life_e7141a6773 in 0.57s[0m
+2026.11.03 19:32:57 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:32:57 INFO  time: compiled w08_life_e7141a6773 in 0.3s[0m
+Nov 03, 2026 7:33:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 25854
+2026.11.03 19:33:04 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:33:04 INFO  time: compiled w08_life_e7141a6773 in 0.52s[0m
+2026.11.03 19:33:40 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:33:40 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:33:40 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:33:40 INFO  time: compiled w08_life_e7141a6773 in 0.55s[0m
+Nov 03, 2026 7:37:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 25970
+2026.11.03 19:37:35 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:37:35 INFO  time: compiled w08_life_e7141a6773 in 0.42s[0m
+2026.11.03 19:37:36 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:37:36 INFO  time: compiled w08_life_e7141a6773 in 0.97s[0m
+2026.11.03 19:41:40 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:41:40 INFO  time: compiled w08_life_e7141a6773 in 0.76s[0m
+2026.11.03 19:41:43 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:41:43 INFO  time: compiled w08_life_e7141a6773 in 0.69s[0m
+2026.11.03 19:41:45 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:41:45 INFO  time: compiled w08_life_e7141a6773 in 0.63s[0m
+2026.11.03 19:41:55 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:41:55 INFO  time: compiled w08_life_e7141a6773 in 0.56s[0m
+2026.11.03 19:42:10 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:42:10 INFO  time: compiled w08_life_e7141a6773 in 0.27s[0m
+2026.11.03 19:42:31 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:42:31 INFO  time: compiled w08_life_e7141a6773 in 0.54s[0m
+2026.11.03 19:42:42 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:42:42 INFO  time: compiled w08_life_e7141a6773 in 0.26s[0m
+2026.11.03 19:42:47 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:42:47 INFO  time: compiled w08_life_e7141a6773 in 0.54s[0m
+2026.11.03 19:42:50 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:42:50 INFO  time: compiled w08_life_e7141a6773 in 0.48s[0m
+2026.11.03 19:43:08 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:43:08 INFO  time: compiled w08_life_e7141a6773 in 0.27s[0m
+2026.11.03 19:43:57 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:43:57 INFO  time: compiled w08_life_e7141a6773 in 0.5s[0m
+2026.11.03 19:44:08 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:44:08 INFO  time: compiled w08_life_e7141a6773 in 0.63s[0m
+2026.11.03 19:44:11 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:44:11 INFO  time: compiled w08_life_e7141a6773 in 0.72s[0m
+2026.11.03 19:44:23 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:44:23 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:44:23 INFO  time: compiled w08_life_e7141a6773 in 0.27s[0m
+2026.11.03 19:44:24 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:44:25 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:44:25 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:44:25 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:44:26 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:44:25 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:44:26 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:44:25 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:44:25 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:44:25 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:44:26 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:44:25 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:44:25 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:44:26 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:44:26 INFO  time: compiled w08_life_e7141a6773 in 0.6s[0m
+2026.11.03 19:44:50 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:44:50 INFO  time: compiled w08_life_e7141a6773 in 0.43s[0m
+2026.11.03 19:45:15 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:45:15 INFO  time: compiled w08_life_e7141a6773 in 0.53s[0m
+2026.11.03 19:45:17 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:45:17 INFO  time: compiled w08_life_e7141a6773 in 0.41s[0m
+2026.11.03 19:46:27 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:46:27 INFO  time: compiled w08_life_e7141a6773 in 0.55s[0m
+2026.11.03 19:46:30 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:46:30 INFO  time: compiled w08_life_e7141a6773 in 0.66s[0m
+2026.11.03 19:47:07 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:47:07 INFO  time: compiled w08_life_e7141a6773 in 0.28s[0m
+2026.11.03 19:47:30 INFO  Created report: Optional[file:///home/tedlu/workspace/workspace/w08_life/LifeWindow.scala][0m
+2026.11.03 19:47:30 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "/home/tedlu/workspace/workspace/w08_life/.metals/.reports/metals-full/2026-11-03/r_empty-definition_(w08_5flife_5fe7141a6773)_19-47-30-606.md")[0m
+2026.11.03 19:47:45 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:47:45 INFO  time: compiled w08_life_e7141a6773 in 0.35s[0m
+2026.11.03 19:47:56 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "/home/tedlu/workspace/workspace/w08_life/.metals/.reports/metals-full/2026-11-03/r_empty-definition_(w08_5flife_5fe7141a6773)_19-47-30-606.md")[0m
+2026.11.03 19:47:57 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "/home/tedlu/workspace/workspace/w08_life/.metals/.reports/metals-full/2026-11-03/r_empty-definition_(w08_5flife_5fe7141a6773)_19-47-30-606.md")[0m
+2026.11.03 19:48:40 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:48:40 INFO  time: compiled w08_life_e7141a6773 in 0.64s[0m
+2026.11.03 19:48:46 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:48:46 INFO  time: compiled w08_life_e7141a6773 in 0.54s[0m
+2026.11.03 19:48:53 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:48:53 INFO  time: compiled w08_life_e7141a6773 in 0.33s[0m
+2026.11.03 19:49:04 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:49:04 INFO  time: compiled w08_life_e7141a6773 in 0.46s[0m
+2026.11.03 19:49:51 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:49:51 INFO  time: compiled w08_life_e7141a6773 in 0.57s[0m
+2026.11.03 19:49:52 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 19:49:51 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:49:53 INFO  time: compiled w08_life_e7141a6773 in 0.56s[0m
+2026.11.03 19:50:00 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:50:00 INFO  time: compiled w08_life_e7141a6773 in 0.32s[0m
+2026.11.03 19:50:00 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:50:01 INFO  time: compiled w08_life_e7141a6773 in 0.29s[0m
+2026.11.03 19:50:18 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:50:18 INFO  time: compiled w08_life_e7141a6773 in 0.51s[0m
+2026.11.03 19:50:31 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 19:50:31 INFO  time: compiled w08_life_e7141a6773 in 0.57s[0m
+2026.11.03 20:05:04 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 20:05:05 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/Life.scala[0m
+2026.11.03 20:05:04 INFO  time: compiled w08_life_e7141a6773 in 0.74s[0m
+2026.11.03 20:05:05 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/Life.scala[0m
+2026.11.03 20:05:05 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 20:05:05 INFO  time: compiled w08_life_e7141a6773 in 0.66s[0m
+2026.11.03 20:05:08 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 20:05:08 INFO  time: compiled w08_life_e7141a6773 in 0.27s[0m
+2026.11.03 20:05:53 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 20:05:53 INFO  time: compiled w08_life_e7141a6773 in 0.55s[0m
+2026.11.03 20:07:27 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 20:07:27 INFO  time: compiled w08_life_e7141a6773 in 0.65s[0m
+2026.11.03 20:07:57 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 20:07:57 INFO  time: compiled w08_life_e7141a6773 in 0.6s[0m
+2026.11.03 20:08:00 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 20:08:00 INFO  time: compiled w08_life_e7141a6773 in 0.67s[0m
+2026.11.03 20:08:06 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 20:08:06 INFO  time: compiled w08_life_e7141a6773 in 0.52s[0m
+2026.11.03 20:09:09 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 20:09:09 INFO  time: compiled w08_life_e7141a6773 in 0.65s[0m
+2026.11.03 20:09:10 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 20:09:10 INFO  time: compiled w08_life_e7141a6773 in 0.38s[0m
+2026.11.03 20:09:37 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 20:09:37 INFO  time: compiled w08_life_e7141a6773 in 0.5s[0m
+2026.11.03 20:10:12 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 20:10:12 INFO  time: compiled w08_life_e7141a6773 in 0.51s[0m
+2026.11.03 20:10:29 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 20:10:29 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 20:10:29 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 20:10:29 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 20:10:29 INFO  time: compiled w08_life_e7141a6773 in 0.51s[0m
+2026.11.03 20:10:40 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 20:10:40 INFO  time: compiled w08_life_e7141a6773 in 0.31s[0m
+2026.11.03 20:10:40 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 20:10:42 INFO  time: compiled w08_life_e7141a6773 in 0.66s[0m
+2026.11.03 20:13:02 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 20:13:02 INFO  time: compiled w08_life_e7141a6773 in 0.49s[0m
+2026.11.03 20:13:10 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 20:13:10 INFO  time: compiled w08_life_e7141a6773 in 0.17s[0m
+2026.11.03 20:13:40 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 20:13:40 INFO  time: compiled w08_life_e7141a6773 in 0.2s[0m
+2026.11.03 20:13:42 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 20:13:42 INFO  time: compiled w08_life_e7141a6773 in 0.19s[0m
+2026.11.03 20:13:51 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 20:13:51 INFO  time: compiled w08_life_e7141a6773 in 0.5s[0m
+2026.11.03 20:14:03 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 20:14:03 INFO  time: compiled w08_life_e7141a6773 in 0.22s[0m
+Nov 03, 2026 8:14:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 29165
+2026.11.03 20:15:51 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 20:15:51 INFO  time: compiled w08_life_e7141a6773 in 0.51s[0m
+2026.11.03 20:16:01 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 20:16:01 INFO  time: compiled w08_life_e7141a6773 in 0.49s[0m
+2026.11.03 20:16:02 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/Main.scala[0m
+2026.11.03 20:16:01 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 20:16:03 INFO  time: compiled w08_life_e7141a6773 in 0.43s[0m
+2026.11.03 20:17:24 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 20:17:24 INFO  time: compiled w08_life_e7141a6773 in 0.33s[0m
+2026.11.03 20:17:36 INFO  Created report: Optional[file:///home/tedlu/workspace/workspace/w08_life/Main.scala][0m
+2026.11.03 20:17:36 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "/home/tedlu/workspace/workspace/w08_life/.metals/.reports/metals-full/2026-11-03/r_empty-definition_(w08_5flife_5fe7141a6773)_20-17-36-135.md")[0m
+2026.11.03 20:17:36 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 20:17:36 INFO  time: compiled w08_life_e7141a6773 in 0.29s[0m
+2026.11.03 20:17:53 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 20:17:53 INFO  time: compiled w08_life_e7141a6773 in 0.29s[0m
+2026.11.03 20:17:56 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 20:17:56 INFO  time: compiled w08_life_e7141a6773 in 0.34s[0m
+2026.11.03 20:18:13 INFO  compiling w08_life_e7141a6773 (2 scala sources)[0m
+2026.11.03 20:18:13 INFO  time: compiled w08_life_e7141a6773 in 0.34s[0m
+2026.11.03 20:18:13 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 20:18:14 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 20:18:13 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.03 20:18:15 INFO  compiling w08_life_e7141a6773 (2 scala sources)[0m
+2026.11.03 20:18:15 INFO  time: compiled w08_life_e7141a6773 in 0.68s[0m
+Nov 03, 2026 8:18:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 29533
+2026.11.03 20:18:18 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 20:18:18 INFO  time: compiled w08_life_e7141a6773 in 0.68s[0m
+2026.11.03 20:21:48 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 20:21:48 INFO  time: compiled w08_life_e7141a6773 in 0.76s[0m
+2026.11.03 20:21:51 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 20:21:51 INFO  time: compiled w08_life_e7141a6773 in 0.56s[0m
+2026.11.03 20:21:54 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 20:21:54 INFO  time: compiled w08_life_e7141a6773 in 0.55s[0m
+2026.11.03 20:21:56 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 20:21:56 INFO  time: compiled w08_life_e7141a6773 in 0.6s[0m
+2026.11.03 20:21:59 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 20:22:00 INFO  time: compiled w08_life_e7141a6773 in 1.12s[0m
+2026.11.03 20:22:01 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 20:22:02 INFO  time: compiled w08_life_e7141a6773 in 1.12s[0m
+2026.11.03 20:22:03 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 20:22:03 INFO  time: compiled w08_life_e7141a6773 in 0.5s[0m
+2026.11.03 20:22:47 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 20:22:47 INFO  time: compiled w08_life_e7141a6773 in 0.42s[0m
+2026.11.03 20:22:50 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 20:22:50 INFO  time: compiled w08_life_e7141a6773 in 0.43s[0m
+2026.11.03 20:22:52 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 20:22:52 INFO  time: compiled w08_life_e7141a6773 in 0.48s[0m
+2026.11.03 20:22:53 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/Main.scala[0m
+2026.11.03 20:22:52 INFO  compiling w08_life_e7141a6773 (1 scala source)[0m
+2026.11.03 20:22:54 INFO  time: compiled w08_life_e7141a6773 in 0.47s[0m
+2026.11.03 20:24:15 INFO  Shutting down server[0m
+2026.11.03 20:24:15 INFO  Memory monitor stopped[0m
+2026.11.03 20:24:15 INFO  shutting down Metals[0m
+2026.11.03 20:24:16 INFO  Shut down connection with build server.[0m
+2026.11.03 20:24:15 INFO  Exiting server[0m
+2026.11.04 10:16:21 INFO  Started: Metals version 1.6.9 in folders '/home/tedlu/workspace/workspace/w08_life' for client Visual Studio Code 1.144.1.[0m
+2026.11.04 10:16:21 INFO  Memory monitor started[0m
+2026.11.04 10:16:21 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.[0m
+2026.11.04 10:16:22 INFO  no build target found for /home/tedlu/workspace/workspace/w08_life/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.04 10:16:22 INFO  Attempting to connect to the build server...[0m
+2026.11.04 10:16:22 INFO  Running BSP server List(/home/tedlu/.cache/coursier/arc/https/github.com/scala/scala3/releases/download/3.8.4/scala3-3.8.4-x86_64-pc-linux.tar.gz/scala3-3.8.4-x86_64-pc-linux/libexec/scala-cli, --cli-default-scala-version, 3.8.4, --repository, file:///home/tedlu/.cache/coursier/arc/https/github.com/scala/scala3/releases/download/3.8.4/scala3-3.8.4-x86_64-pc-linux.tar.gz/scala3-3.8.4-x86_64-pc-linux/maven2, --prog-name, scala, --skip-cli-updates, bsp, --json-options, /home/tedlu/workspace/workspace/w08_life/.scala-build/ide-options-v2.json, --json-launcher-options, /home/tedlu/workspace/workspace/w08_life/.scala-build/ide-launcher-options.json, --envs-file, /home/tedlu/workspace/workspace/w08_life/.scala-build/ide-envs.json, /home/tedlu/workspace/workspace/w08_life)[0m
+2026.11.04 10:16:22 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at /home/tedlu/workspace/workspace/w08_life/.metals/bsp.trace.json or /home/tedlu/.cache/metals/bsp.trace.json[0m
+2026.11.04 10:16:23 INFO  BSP server: Starting compilation server[0m
+2026.11.04 10:16:23 INFO  no build target found for /home/tedlu/workspace/workspace/w08_life/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.04 10:16:26 INFO  BSP server: [E] Caught java.lang.InterruptedException[0m
+2026.11.04 10:16:26 INFO  BSP server: Bloop 'bsp' command exited with code 1. Something may be wrong with the current configuration.[0m
+2026.11.04 10:16:26 INFO  BSP server: Running the clean sub-command to clear the working directory and remove caches might help.[0m
+2026.11.04 10:16:26 INFO  BSP server: If the error persists, please report the issue as a bug and attach a log with increased verbosity by passing -v -v -v.[0m
+2026.11.04 10:16:26 INFO  BSP server: Error: java.lang.RuntimeException: Bloop BSP connection in /home/tedlu/.cache/scalacli/bsp-sockets/proc-1074 was unexpectedly closed or bloop didn't start.[0m
+2026.11.04 10:16:26 INFO  BSP server: For more details, please see '/home/tedlu/workspace/workspace/w08_life/.scala-build/stacktraces/1793783786-4817013124618782686.log'[0m
+2026.11.04 10:17:14 INFO  Shutting down server[0m
+2026.11.04 10:17:14 INFO  Memory monitor stopped[0m
+2026.11.04 10:17:14 INFO  shutting down Metals[0m
+2026.11.04 10:17:14 INFO  Exiting server[0m
+2026.11.04 11:24:31 INFO  Started: Metals version 1.6.9 in folders '/home/tedlu/workspace/workspace/w08_life' for client Visual Studio Code 1.144.1.[0m
+2026.11.04 11:24:31 INFO  Memory monitor started[0m
+2026.11.04 11:24:31 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.[0m
+2026.11.04 11:24:32 INFO  no build target found for /home/tedlu/workspace/workspace/w08_life/Life.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.04 11:24:32 INFO  Attempting to connect to the build server...[0m
+2026.11.04 11:24:32 INFO  Running BSP server List(/home/tedlu/.cache/coursier/arc/https/github.com/scala/scala3/releases/download/3.8.4/scala3-3.8.4-x86_64-pc-linux.tar.gz/scala3-3.8.4-x86_64-pc-linux/libexec/scala-cli, --cli-default-scala-version, 3.8.4, --repository, file:///home/tedlu/.cache/coursier/arc/https/github.com/scala/scala3/releases/download/3.8.4/scala3-3.8.4-x86_64-pc-linux.tar.gz/scala3-3.8.4-x86_64-pc-linux/maven2, --prog-name, scala, --skip-cli-updates, bsp, --json-options, /home/tedlu/workspace/workspace/w08_life/.scala-build/ide-options-v2.json, --json-launcher-options, /home/tedlu/workspace/workspace/w08_life/.scala-build/ide-launcher-options.json, --envs-file, /home/tedlu/workspace/workspace/w08_life/.scala-build/ide-envs.json, /home/tedlu/workspace/workspace/w08_life)[0m
+2026.11.04 11:24:32 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at /home/tedlu/workspace/workspace/w08_life/.metals/bsp.trace.json or /home/tedlu/.cache/metals/bsp.trace.json[0m
+2026.11.04 11:24:33 INFO  BSP server: Starting compilation server[0m
+2026.11.04 11:24:36 INFO  time: Connected to build server in 4.05s[0m
+2026.11.04 11:24:36 INFO  Connected to Build server: scala v1.14.0[0m
+2026.11.04 11:24:36 INFO  time: Imported build in 0.13s[0m
+2026.11.04 11:24:36 INFO  compiling w08_life_1f6f4851e1 (5 scala sources)[0m
+2026.11.04 11:24:38 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.[0m
+2026.11.04 11:24:38 INFO  time: indexed workspace in 2.72s[0m
+2026.11.04 11:24:42 INFO  time: compiled w08_life_1f6f4851e1 in 5.41s[0m
+2026.11.04 11:35:43 INFO  compiling w08_life_1f6f4851e1 (1 scala source)[0m
+2026.11.04 11:35:44 INFO  time: compiled w08_life_1f6f4851e1 in 1.22s[0m
+2026.11.04 11:35:44 INFO  compiling w08_life_1f6f4851e1 (1 scala source)[0m
+2026.11.04 11:35:45 INFO  time: compiled w08_life_1f6f4851e1 in 0.82s[0m
+2026.11.04 11:36:13 INFO  compiling w08_life_1f6f4851e1 (1 scala source)[0m
+2026.11.04 11:36:13 INFO  time: compiled w08_life_1f6f4851e1 in 0.47s[0m
+2026.11.04 11:38:08 INFO  compiling w08_life_1f6f4851e1 (1 scala source)[0m
+2026.11.04 11:38:08 INFO  time: compiled w08_life_1f6f4851e1 in 0.76s[0m
+2026.11.04 11:38:09 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/Life.scala[0m
+2026.11.04 11:38:09 INFO  compiling w08_life_1f6f4851e1 (1 scala source)[0m
+2026.11.04 11:38:09 INFO  time: compiled w08_life_1f6f4851e1 in 0.51s[0m
+2026.11.04 11:38:10 INFO  compiling w08_life_1f6f4851e1 (1 scala source)[0m
+2026.11.04 11:38:10 INFO  time: compiled w08_life_1f6f4851e1 in 0.43s[0m
+2026.11.04 12:07:30 INFO  compiling w08_life_1f6f4851e1 (1 scala source)[0m
+2026.11.04 12:07:30 INFO  time: compiled w08_life_1f6f4851e1 in 0.53s[0m
+2026.11.04 12:07:32 INFO  compiling w08_life_1f6f4851e1 (1 scala source)[0m
+2026.11.04 12:07:32 INFO  time: compiled w08_life_1f6f4851e1 in 0.78s[0m
+2026.11.04 12:08:03 INFO  compiling w08_life_1f6f4851e1 (1 scala source)[0m
+2026.11.04 12:08:03 INFO  time: compiled w08_life_1f6f4851e1 in 0.41s[0m
+2026.11.04 12:08:04 WARN  Could not load snapshot text for /home/tedlu/workspace/workspace/w08_life/LifeWindow.scala[0m
+2026.11.04 12:08:03 INFO  compiling w08_life_1f6f4851e1 (1 scala source)[0m
+2026.11.04 12:08:04 INFO  time: compiled w08_life_1f6f4851e1 in 0.33s[0m
+2026.11.04 12:08:08 INFO  compiling w08_life_1f6f4851e1 (1 scala source)[0m
+2026.11.04 12:08:08 INFO  time: compiled w08_life_1f6f4851e1 in 0.48s[0m
+2026.11.04 12:08:34 INFO  compiling w08_life_1f6f4851e1 (1 scala source)[0m
+2026.11.04 12:08:34 INFO  time: compiled w08_life_1f6f4851e1 in 0.31s[0m
+2026.11.04 12:08:36 INFO  compiling w08_life_1f6f4851e1 (1 scala source)[0m
+2026.11.04 12:08:36 INFO  time: compiled w08_life_1f6f4851e1 in 0.28s[0m
+Nov 04, 2026 1:26:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1086
+2026.11.04 13:50:35 INFO  Shutting down server[0m
+2026.11.04 13:50:35 INFO  Memory monitor stopped[0m
+2026.11.04 13:50:35 INFO  shutting down Metals[0m
+2026.11.04 13:50:35 INFO  Shut down connection with build server.[0m
+2026.11.04 13:50:35 INFO  Exiting server[0m
+2026.11.08 09:59:59 INFO  Started: Metals version 1.6.9 in folders '/home/tedlu/workspace/workspace/w08_life' for client Visual Studio Code 1.145.0.[0m
+2026.11.08 09:59:59 INFO  Memory monitor started[0m
+2026.11.08 09:59:59 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.[0m
+2026.11.08 10:00:00 INFO  no build target found for /home/tedlu/workspace/workspace/w08_life/Life.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.08 10:00:00 INFO  Attempting to connect to the build server...[0m
+2026.11.08 10:00:00 INFO  Running BSP server List(/home/tedlu/.cache/coursier/arc/https/github.com/scala/scala3/releases/download/3.8.4/scala3-3.8.4-x86_64-pc-linux.tar.gz/scala3-3.8.4-x86_64-pc-linux/libexec/scala-cli, --cli-default-scala-version, 3.8.4, --repository, file:///home/tedlu/.cache/coursier/arc/https/github.com/scala/scala3/releases/download/3.8.4/scala3-3.8.4-x86_64-pc-linux.tar.gz/scala3-3.8.4-x86_64-pc-linux/maven2, --prog-name, scala, --skip-cli-updates, bsp, --json-options, /home/tedlu/workspace/workspace/w08_life/.scala-build/ide-options-v2.json, --json-launcher-options, /home/tedlu/workspace/workspace/w08_life/.scala-build/ide-launcher-options.json, --envs-file, /home/tedlu/workspace/workspace/w08_life/.scala-build/ide-envs.json, /home/tedlu/workspace/workspace/w08_life)[0m
+2026.11.08 10:00:00 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at /home/tedlu/workspace/workspace/w08_life/.metals/bsp.trace.json or /home/tedlu/.cache/metals/bsp.trace.json[0m
+2026.11.08 10:00:01 INFO  BSP server: Checking https://repo1.maven.org/maven2/org/scala-lang/scala3-library_3/maven-metadata.xml[0m
+2026.11.08 10:00:01 INFO  BSP server: Checked https://repo1.maven.org/maven2/org/scala-lang/scala3-library_3/maven-metadata.xml[0m
+2026.11.08 10:00:01 INFO  no build target found for /home/tedlu/workspace/workspace/w08_life/Life.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.08 10:00:01 INFO  BSP server: Checking https://repo1.maven.org/maven2/se/lth/cs/introprog_3/maven-metadata.xml[0m
+2026.11.08 10:00:01 INFO  BSP server: Checked https://repo1.maven.org/maven2/se/lth/cs/introprog_3/maven-metadata.xml[0m
+2026.11.08 10:00:02 INFO  time: Connected to build server in 1.48s[0m
+2026.11.08 10:00:01 INFO  Connected to Build server: scala v1.14.0[0m
+2026.11.08 10:00:01 INFO  time: Imported build in 0.14s[0m
+2026.11.08 10:00:05 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.[0m
+2026.11.08 10:00:05 INFO  time: indexed workspace in 3.78s[0m
